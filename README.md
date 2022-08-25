@@ -1,2 +1,2 @@
 # Matrix-rain-JS
-Matrix style falling rain using JavaScript
+Matrix style falling rain using JavaScript with HTTP and CSS elements
